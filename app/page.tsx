@@ -7,6 +7,10 @@ export default function Home() {
       <Head>
         <title>Fariborz rafatrad - Personal Website</title>
         <meta
+          name="google-site-verification"
+          content="T40OzoESge6yMeJZanfCQfhXdmbVSuZt63VdiQFwbvY"
+        />
+        <meta
           name="description"
           content="A brief description about yourself."
         />
