@@ -17,7 +17,9 @@ export default function Home() {
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://fari4r.github.io/mynext/" />
       </Head>
-      {/* Your website content */}
+      <div>
+        <h1>I am Fariborz Rafatrad</h1>
+      </div>
     </>
   );
 }
