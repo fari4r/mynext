@@ -12,11 +12,11 @@ export default function Home() {
         />
         <meta
           name="description"
-          content="A brief description about yourself."
+          content="Fariborz rafatrad, front-end developer"
         />
         <meta
           name="keywords"
-          content="Fariborz rafatrad, personal website, portfolio, etc.  ,فریبرز , رفعت راد ,برنامه نویس فرانت اند "
+          content="Fariborz rafatrad, personal website, portfolio,فریبرز , رفعت راد ,برنامه نویس فرانت اند , رفعت , راد"
         />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://fari4r.github.io/mynext/" />
