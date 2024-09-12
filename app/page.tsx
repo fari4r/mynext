@@ -16,7 +16,7 @@ export default function Home() {
         />
         <meta
           name="keywords"
-          content="Fariborz rafatrad, personal website, portfolio, etc. فریبرز رفعت راد برنامه نویس فرانت اند "
+          content="Fariborz rafatrad, personal website, portfolio, etc.  ,فریبرز , رفعت راد ,برنامه نویس فرانت اند "
         />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://fari4r.github.io/mynext/" />
