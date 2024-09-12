@@ -22,7 +22,8 @@ export default function Home() {
         <link rel="canonical" href="https://fari4r.github.io/mynext/" />
       </Head>
       <div>
-        <h1>I am Fariborz Rafatrad</h1>
+        <h1>I am Fariborz Rafatrad. I am a front-end developer.</h1>
+        <p>سلام من فریبرز رفعت راد هستم برنامه نویس فرانت اند.</p>
       </div>
     </>
   );
