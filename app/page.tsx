@@ -1,3 +1,12 @@
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "home",
+  description: "Home",
+  keywords:
+    "fariborz, rafatrad, fariborz rafatrad, front end developer, personal website, فریبرز , رفعت راد , راد , برنامه نویس",
+};
+
 export default function Home() {
   return (
     <div>
