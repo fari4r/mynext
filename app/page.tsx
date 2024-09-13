@@ -1,8 +1,10 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "home",
-  description: "Home",
+  title:
+    "fariborz, rafatrad, fariborz rafatrad, front end developer, personal website, فریبرز , رفعت راد , راد , برنامه نویس",
+  description:
+    "fariborz, rafatrad, fariborz rafatrad, front end developer, personal website, فریبرز , رفعت راد , راد , برنامه نویس",
   keywords:
     "fariborz, rafatrad, fariborz rafatrad, front end developer, personal website, فریبرز , رفعت راد , راد , برنامه نویس",
 };
